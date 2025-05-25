@@ -174,7 +174,10 @@ The notebook is organized into the following sections:
 
 ## Contributors
 
-Team participating in Annam AI Hackathon
+
+Team : GreenLanterns
+Team Members: Sparsh Karna, Akshat Majila, Mohnish Kodukulla , Arkita B, Mishti Mattu
+
 
 ## Additional Information
 

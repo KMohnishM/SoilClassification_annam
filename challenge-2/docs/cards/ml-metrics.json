@@ -3,11 +3,5 @@
   "Name": "Sparsh Karna",
   "Kaggle Username": "SparshKarna69",
   "Team Name": "GreenLanterns",
-  "f1 scores": {
-    "_comment": "Here are the class wise f1 scores",
-    "alluvial soil": 0.9717,
-    "red soil": 1.0,
-    "black soil": 0.9677,
-    "clay soil": 0.9620
-  }
+  "f1 scores": "0.9462"
 }
