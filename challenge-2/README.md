@@ -175,8 +175,9 @@ The notebook is organized into the following sections:
 ## Contributors
 
 
-Team Name : GreenLanterns
-- Team Members: Sparsh Karna , Akshat Majila , Mohnish Kodukulla , Arkita B , Mishti Mattu
+Team : GreenLanterns
+
+Team Members: Sparsh Karna , Akshat Majila , Mohnish Kodukulla , Arkita B , Mishti Mattu
 
 
 ## Additional Information
