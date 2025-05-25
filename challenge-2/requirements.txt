@@ -1,0 +1,12 @@
+Python 3  
+TensorFlow  
+PyTorch  
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
+Scikit-learn  
+Transformers (Hugging Face)  
+h5py  
+OpenCV  
+PIL (Pillow)  
